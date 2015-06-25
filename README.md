@@ -4,7 +4,7 @@ Materials and Resources for the "Data Audioization/Sonification" session at SRCC
 ## Dataset 1
 This dataset, from Popup Archive, contains the weekly number of mentions of people in podcasts starting at beginning of 2015.
 
-The datafile is called [popupArchiveData.csv](https://www.popuparchive.com/).
+The datafile is called popupArchiveData.csv.
 
 The file has the following structure:
 
@@ -14,7 +14,7 @@ Variable | Definition
 `mentions` | The number of mentions in a given week
 `week` | The week, in format YYYY-MM-DD (i.e. 2015-03-29)
 
-The data was compiled by Shindo Strzelczyk of Popup Archive.
+The data was compiled by Shindo Strzelczyk of [Popup Archive](https://www.popuparchive.com/).
 
 ## Dataset 2
 This data is from FiveThirtyEight, and was originally published in [their GitHub repo](https://github.com/fivethirtyeight/data/tree/master/comic-characters) and used for Walt Hickey's article, ["Comic Books Are Still Made By Men, For Men And About Men."](http://fivethirtyeight.com/features/women-in-comic-books/) 
