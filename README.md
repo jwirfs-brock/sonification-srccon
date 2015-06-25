@@ -2,7 +2,7 @@
 Materials and Resources for the "Data Audioization/Sonification" session at SRCCON 2015.
 
 ## Dataset 1
-This dataset, from Popup Archive, contains the weekly number of mentions of people in podcasts starting at beginning of 2015.
+TThis dataset, from Popup Archive's [Audiosear.ch](https://www.audiosear.ch/) podcast transcription tool, contains the weekly number of mentions of real and fictional people (i.e. Don Draper, Terry Gross) in the top performing podcasts for February 2015 through June 2015.
 
 The datafile is called popupArchiveData.csv.
 
